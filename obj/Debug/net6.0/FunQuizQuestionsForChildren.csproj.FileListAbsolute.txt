@@ -1,0 +1,15 @@
+/Users/gulce/Projects/FunQuizQuestionsForChildren/FunQuizQuestionsForChildren/obj/Debug/net6.0/FunQuizQuestionsForChildren.csproj.AssemblyReference.cache
+/Users/gulce/Projects/FunQuizQuestionsForChildren/FunQuizQuestionsForChildren/obj/Debug/net6.0/FunQuizQuestionsForChildren.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gulce/Projects/FunQuizQuestionsForChildren/FunQuizQuestionsForChildren/obj/Debug/net6.0/FunQuizQuestionsForChildren.AssemblyInfoInputs.cache
+/Users/gulce/Projects/FunQuizQuestionsForChildren/FunQuizQuestionsForChildren/obj/Debug/net6.0/FunQuizQuestionsForChildren.AssemblyInfo.cs
+/Users/gulce/Projects/FunQuizQuestionsForChildren/FunQuizQuestionsForChildren/obj/Debug/net6.0/FunQuizQuestionsForChildren.csproj.CoreCompileInputs.cache
+/Users/gulce/Projects/FunQuizQuestionsForChildren/FunQuizQuestionsForChildren/bin/Debug/net6.0/FunQuizQuestionsForChildren
+/Users/gulce/Projects/FunQuizQuestionsForChildren/FunQuizQuestionsForChildren/bin/Debug/net6.0/FunQuizQuestionsForChildren.deps.json
+/Users/gulce/Projects/FunQuizQuestionsForChildren/FunQuizQuestionsForChildren/bin/Debug/net6.0/FunQuizQuestionsForChildren.runtimeconfig.json
+/Users/gulce/Projects/FunQuizQuestionsForChildren/FunQuizQuestionsForChildren/bin/Debug/net6.0/FunQuizQuestionsForChildren.dll
+/Users/gulce/Projects/FunQuizQuestionsForChildren/FunQuizQuestionsForChildren/bin/Debug/net6.0/FunQuizQuestionsForChildren.pdb
+/Users/gulce/Projects/FunQuizQuestionsForChildren/FunQuizQuestionsForChildren/obj/Debug/net6.0/FunQuizQuestionsForChildren.dll
+/Users/gulce/Projects/FunQuizQuestionsForChildren/FunQuizQuestionsForChildren/obj/Debug/net6.0/refint/FunQuizQuestionsForChildren.dll
+/Users/gulce/Projects/FunQuizQuestionsForChildren/FunQuizQuestionsForChildren/obj/Debug/net6.0/FunQuizQuestionsForChildren.pdb
+/Users/gulce/Projects/FunQuizQuestionsForChildren/FunQuizQuestionsForChildren/obj/Debug/net6.0/FunQuizQuestionsForChildren.genruntimeconfig.cache
+/Users/gulce/Projects/FunQuizQuestionsForChildren/FunQuizQuestionsForChildren/obj/Debug/net6.0/ref/FunQuizQuestionsForChildren.dll
